@@ -27,7 +27,11 @@ Follow me on [Twitter](http://twitter.com/gfritchey)
 ## Table of Contents
 
 - [Instructors](#instructors)
+- [Blogs](#blogs)
 
 ## Instructors
 - [Independent Instructors](instructors/independent.md)
 - [Microsoft Instructors](instructors/microsoft.md)
+
+## Blogs
+- [General Data Platform Information](blogs/general.md)
