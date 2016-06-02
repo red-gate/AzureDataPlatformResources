@@ -28,6 +28,7 @@ Follow me on [Twitter](http://twitter.com/gfritchey)
 
 - [Instructors](#instructors)
 - [Blogs](#blogs)
+- [Tutorial](#tutorials)
 
 ## Instructors
 - [Independent Instructors](instructors/independent.md)
@@ -35,3 +36,6 @@ Follow me on [Twitter](http://twitter.com/gfritchey)
 
 ## Blogs
 - [General Data Platform Information](blogs/general.md)
+
+##Tutorials
+- [Azure SQL Data Warehouse](tutorials/sqldatawarehouse.md)
