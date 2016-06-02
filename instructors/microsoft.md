@@ -5,6 +5,7 @@ This listing, currently alphabetical, represents the Microsoft people who are pr
 - George Walters (<a href="https://georgewalters.wordpress.com/">b</span></a>|<a href="https://twitter.com/gwalters69">t</span></a>)
 - Dandy Weyn (<a href="https://twitter.com/ilikesql">t</span></a>)
 - Buck Woody (<a href="http://www.buckwoody.com/">b</span></a>|<a href="https://twitter.com/BuckWoodyMSFT">t</span></a>)
+- James Serra (<a href="http://www.jamesserra.com/">b</span></a>|<a href="https://twitter.com/jamesserra">t</span></a>)
 
 Over time, as the list grows, I will begin to categorize. I might even rank based on my knowledge of, or reports on, the speaker.
 
