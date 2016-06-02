@@ -15,8 +15,19 @@ This GitHub repository represents a listing of Azure Data Platform Learning Reso
 
 Please feel free to issue pull requests with additional information. I am currently maintaining this entirely on my own, so please don't expect quick responses (I have an actual job too).
 
+-
+
 Grant Fritchey
 grant@scarydba.com
 Please read my [blog](http://www.scarydba.com)
 Follow me on [Twitter](http://twitter.com/gfritchey)
 
+-
+
+## Table of Contents
+
+- [Instructors](#instructors)
+
+## Instructors
+- [Independent Instructors](instructors/independent.md)
+- [Microsoft Instructors](instructors/microsoft.md)
