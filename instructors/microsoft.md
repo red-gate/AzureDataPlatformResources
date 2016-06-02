@@ -2,9 +2,9 @@
 
 This listing, currently alphabetical, represents the Microsoft people who are providing teaching, training, and instructing on the Azure Data Platform:
 
-Aaron Bertrand (<a href="http://sqlperformance.com/author/abertrand"><span style="color: #ff0000;">b</span></a>|<a href="https://twitter.com/AaronBertrand"><span style="color: #ff0000;">t</span></a>)
-Jes Borland (<a href="http://blogs.lessthandot.com/index.php/author/grrlgeek/"><span style="color: #ff0000;">b</span></a>|<a href="https://twitter.com/grrl_geek"><span style="color: #ff0000;">t</span></a>)
-Denny Cherry (<a href="http://mrdenny.com/"><span style="color: #ff0000;">b</span></a>|<a href="http://www.twitter.com/mrdenny"><span style="color: #ff0000;">t</span></a>)
+- George Walters (<a href="https://georgewalters.wordpress.com/">b</span></a>|<a href="https://twitter.com/gwalters69">t</span></a>)
+- Dandy Weyn (<a href="https://twitter.com/ilikesql">t</span></a>)
+- Buck Woody (<a href="http://www.buckwoody.com/">b</span></a>|<a href="https://twitter.com/BuckWoodyMSFT">t</span></a>)
 
 Over time, as the list grows, I will begin to categorize. I might even rank based on my knowledge of, or reports on, the speaker.
 
