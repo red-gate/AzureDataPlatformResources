@@ -36,6 +36,8 @@ Follow me on [Twitter](http://twitter.com/gfritchey)
 
 ## Blogs
 - [General Data Platform Information](blogs/general.md)
+- [R](blogs/r.md)
+- [PowerBI](blogs/powerbi.md)
 
 ##Tutorials
 - [Azure SQL Data Warehouse](tutorials/sqldatawarehouse.md)
