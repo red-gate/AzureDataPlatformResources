@@ -41,3 +41,4 @@ Follow me on [Twitter](http://twitter.com/gfritchey)
 
 ##Tutorials
 - [Azure SQL Data Warehouse](tutorials/sqldatawarehouse.md)
+- [Azure SQL Database](tutorials)/sqldb.md)
