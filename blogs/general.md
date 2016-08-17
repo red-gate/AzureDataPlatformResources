@@ -3,3 +3,4 @@
 
 - Grant Fritchey [ScaryDBA.com](http://www.scarydba.com/category/azure-2/)
 - [Microsoft Azure Blog](https://azure.microsoft.com/en-us/blog/)
+- [Denny Cherry & Associates Consulting] https://dcac.co/blog/
