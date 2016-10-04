@@ -20,6 +20,7 @@ This listing, currently alphabetical, represents the non-Microsoft people who ar
 - John Sterrett (<a href="http://johnsterrett.com/">b</a>|<a href="https://twitter.com/johnsterrett">t</a>)
 - Jason Strate (<a href="http://www.jasonstrate.com/">b</a>|<a href="https://twitter.com/stratesql">t</a>)
 - Paul Timmerman (<a href="http://blogs.lessthandot.com/index.php/author/mndba/">b</a>|<a href="https://twitter.com/mnDBA">t</a>)
+- Josh Fennessy (<a href="http://www.joshuafennessy.com">b</a>|<a href="https://twitter.com/joshuafennessy">t</a>)
 
 Over time, as the list grows, I will begin to categorize. I might even rank based on my knowledge of, or reports on, the speaker.
 
