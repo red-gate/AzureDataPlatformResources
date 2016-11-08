@@ -2,6 +2,7 @@
 
 This listing, currently alphabetical, represents the non-Microsoft people who are providing an independent voice for teaching, training, and instructing on the Azure Data Platform:
 
+- Sven Aelterman (<a href="https://svenaelterman.wordpress.com"><span style="color: #ff0000;">b</span></a>|<a href="https://twitter.com/SvenAelterman"><span style="color: #ff0000;">t</span></a>)
 - Aaron Bertrand (<a href="http://sqlperformance.com/author/abertrand"><span style="color: #ff0000;">b</span></a>|<a href="https://twitter.com/AaronBertrand"><span style="color: #ff0000;">t</span></a>)
 - Jes Borland (<a href="http://blogs.lessthandot.com/index.php/author/grrlgeek/"><span style="color: #ff0000;">b</span></a>|<a href="https://twitter.com/grrl_geek"><span style="color: #ff0000;">t</span></a>)
 - Denny Cherry (<a href="http://mrdenny.com/"><span style="color: #ff0000;">b</span></a>|<a href="http://www.twitter.com/mrdenny"><span style="color: #ff0000;">t</span></a>)
