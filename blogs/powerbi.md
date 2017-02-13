@@ -21,3 +21,4 @@
 - Dan English [denglighbi](https://denglishbi.wordpress.com/)
 - [Darren Gosbell](http://geekswithblogs.net/darrengosbell/Default.aspx)
 - [Business Intelligence Insight](http://biinsight.com/)
+- Koen Verbeeck [sqlkover.com](http://sqlkover.com/)
